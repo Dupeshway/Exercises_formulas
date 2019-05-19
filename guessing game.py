@@ -38,7 +38,7 @@ while guess_count<10:
         break
 
 if guess!= number:
-    print('Sorry you fucked up, this is supposed to be a kids game, try again to save your pride')
+    print('Oh no! Youve run out of guesses, want to try again?')
 
 else:
     print('Good job, wanna play again? ')
